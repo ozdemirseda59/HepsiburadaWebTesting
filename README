@@ -1,0 +1,5 @@
+mvn clean test -Denv=prod -Dcucumber.options="--tags @prod"
+
+mvn clean test -Denv=test -Dcucumber.options="--tags @test"
+
+mvn clean test -Denv=test -Dcucumber.options="--tags @Login"

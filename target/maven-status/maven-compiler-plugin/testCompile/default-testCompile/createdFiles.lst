@@ -1,0 +1,10 @@
+tests\cucumber\steps\ProductListingSteps.class
+pages\ProductListingPage.class
+utilities\JSWaiter.class
+pages\HomePage.class
+tests\cucumber\steps\ProductDetailSteps.class
+utilities\BaseStep.class
+tests\runner\TestRunnerSuit.class
+utilities\SettingBrowser.class
+utilities\BasePage.class
+pages\ProductDetailPage.class
